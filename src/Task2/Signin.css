@@ -1,0 +1,46 @@
+.header
+{
+    background-color:#F8F9F9;
+    width: 435px;
+    margin-left: 415px;
+    height: 270px;
+}
+.left
+{
+    margin-top: 115px;
+    text-align: center;
+}
+#ip7
+{
+    width: 300px;
+    height: 40px;
+    margin-top: 10px;
+    border: 1px solid #48C9B0; 
+}
+#ip8
+{
+    width: 300px;
+    height: 40px;
+    margin-top: 10px;
+    border: 1px solid #48C9B0; 
+}
+#ip6
+{
+    background-color: #48C9B0;
+    color: white;
+    margin-left: -1px;
+    width: 305px;
+    height: 40px;
+    font-size: 18px;
+    border: 1px;
+    margin-top: 10px;
+}
+.text{
+    font-size:25px;
+}
+.a1
+{
+    text-decoration: underline;
+    text-decoration-color:#D4D5D5;
+    color:black;
+}

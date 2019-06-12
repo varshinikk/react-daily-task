@@ -4,7 +4,7 @@ import User2 from './User2';
 class User1 extends Component{
     render(){
         return(<div>
-            <h1>{this.props.title}</h1>
+            <h1>Age List</h1>
             <User2 age="20">Ram</User2>
             <User2 age="30">Sham</User2>
             <User2 age="40">Jhon</User2>

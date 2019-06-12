@@ -1,0 +1,62 @@
+.move
+{
+    text-align: center;
+    background-color: #F8F9F9;
+    width: 510px;
+    margin-left: 350px;
+    height: 450px;
+}
+#ip1
+{
+    height: 32px;
+    width: 235px;
+    margin-top: 10px;
+}
+#ip2
+{
+    height: 32px;
+    width: 235px;
+    margin-top: 10px;
+}
+#ip3
+{
+    height: 32px;
+    width: 235px;
+    margin-top: 10px;
+}
+#ip4
+{
+    height: 32px;
+    width: 235px;
+    margin-top: 10px;
+}
+#ip5
+{
+    margin-top: 30px;
+    margin-left: -71px;
+    height: 40px;
+    background-color:#3498DB;
+    color: white;
+    font-size: 18px;
+    border:1px;
+    border-radius: 8px;
+    margin-left: 3px;
+}
+.name
+{
+    margin-left: -194px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.name1
+{
+    margin-left: -164px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.name2
+{
+    margin-left: -141px;
+    font-size: 18px;
+    margin-top: 10px;
+}
