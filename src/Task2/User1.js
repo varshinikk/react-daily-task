@@ -1,5 +1,7 @@
 import React, {Component} from 'react';
 import User2 from './User2';
+import User3 from './User3';
+import User5 from './User5';
 
 class User1 extends Component{
     render(){
@@ -9,6 +11,8 @@ class User1 extends Component{
             <User2 age="30">Sham</User2>
             <User2 age="40">Jhon</User2>
             <User2 age="50">Mark</User2>
+            <User3/>
+            <User5/>
         </div>);
     }
 }
