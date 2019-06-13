@@ -1,0 +1,45 @@
+.button1
+{
+    width: 100px;
+    padding: 5px;
+    background-color:#9B59B6;
+    border:1px solid #9B59B6  ;
+    border-radius: 8px;
+    color: aliceblue;
+}
+.button2
+{
+    width: 100px;
+    padding: 5px;
+    background-color:#9B59B6;
+    border:1px solid #9B59B6  ;
+    border-radius: 8px;
+    color: aliceblue;
+}
+.button3
+{
+    width: 100px;
+    padding: 5px;
+    background-color:#9B59B6;
+    border:1px solid #9B59B6  ;
+    border-radius: 8px;
+    color: aliceblue;
+}
+.div1
+{
+    margin-left: 336px;
+}
+.div2
+{
+    margin-top: -107px;
+    margin-left: 550px;
+}
+.div3
+{
+    margin-top: -107px;
+    margin-left: 774px;
+}
+.heading1
+{
+    margin-left: 26px;
+}
