@@ -6,6 +6,7 @@ import Lifecycle from './Task2/Lifecycle';
 import User1 from './Task2/User1';
 import Arithmetic from './Task3/Arithmetic';
 import Input from './Task4/Input';
+import Restful1 from './Task5/Restful1';
 
 function App() {
   return (<Router>
@@ -15,6 +16,7 @@ function App() {
     <Route exact path = "/User1" component = {User1}></Route>
     <Route exact path = "/Arithmetic" component = {Arithmetic}></Route>
     <Route exact path = "/Input" component = {Input}></Route>
+    <Route exact path = "/Restful1" component = {Restful1}></Route>
     </switch>
   </Router>
   )
